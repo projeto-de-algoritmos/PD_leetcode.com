@@ -1,35 +1,35 @@
 # Exercícios LeetCode
 
-**Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 18/0062760  |  Bruno Bernardes Duarte |
+| 18/0062760  |  [Bruno Bernardes Duarte](https://github.com/brunobd) |
 
 ## Sobre 
-Este repositório contem a solução de alguns exercícios do site [LeetCode](www.leetcode.com).
+Este repositório contem a solução de alguns exercícios do site [LeetCode](www.leetcode.com):
 
-- [322. Coin Change]()
-- [300. Longest Increasing Subsequence]()
-- [1235. Maximum Profit in Job Scheduling]()
-- [1866. Numbe of Ways to Rearrange Sticks With K Sticks Visible]()
+- [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [322. Coin Change](https://leetcode.com/problems/coin-change/)
+- [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+- [1866. Numbe of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+<div>
+<img src="./.github/01.png" alt="unsolved" width="600"/>
+</div>
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## Utilização
+Basta acessar o link de cada problema e submeter o código, é necessário criar uma conta no LeetCode para rodar o código.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Explicação
+### [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+### [322. Coin Change](https://leetcode.com/problems/coin-change/)
 
+### [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
 
+### [1866. Numbe of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/)
 
 
