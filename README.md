@@ -1,15 +1,20 @@
 # Exercícios LeetCode
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 18/0062760  |  Programação Dinâmica |
+| 18/0062760  |  Bruno Bernardes Duarte |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório contem a solução de alguns exercícios do site [LeetCode](www.leetcode.com).
+
+- [322. Coin Change]()
+- [300. Longest Increasing Subsequence]()
+- [1235. Maximum Profit in Job Scheduling]()
+- [1866. Numbe of Ways to Rearrange Sticks With K Sticks Visible]()
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
